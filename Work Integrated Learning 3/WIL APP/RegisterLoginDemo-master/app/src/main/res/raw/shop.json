@@ -1,0 +1,70 @@
+[
+    {
+      "name":"BenLuc",
+      "address":"381 Helen Joseph St, Central, Pretoria, 0001",
+      "delivery_charge": 50,
+      "image":"https://firebasestorage.googleapis.com/v0/b/the-ben-luc-system.appspot.com/o/Logo.jpg?alt=media&token=8681948e-0329-4b90-9dff-3316f3ce8f36",
+
+      "hours":{
+        "Sunday":"11:00 AM - 7:00 PM",
+        "Monday":"10:00 AM - 9:00 PM",
+        "Tuesday":"10:00 AM - 10:00 PM",
+        "Wednesday":"10:00 AM - 11:00 PM",
+        "Thursday":"10:00 AM - 10:00 PM",
+        "Friday":"10:00 AM - 11:00 PM",
+        "Saturday":"10:00 AM - 2:00 PM"
+      },
+      "menus": [
+        {
+          "name": "Beige Dress",
+          "price": 450.00,
+          "url": "https://firebasestorage.googleapis.com/v0/b/the-ben-luc-system.appspot.com/o/girl.jpg?alt=media&token=947eb68e-d12d-4a46-a1d1-1343715b7c5c"
+        },
+        {
+          "name": "Tactical Cargo Pants",
+          "price": 700.00,
+          "url": "https://firebasestorage.googleapis.com/v0/b/the-ben-luc-system.appspot.com/o/Screenshot_20210925-105736.jpg?alt=media&token=5f39b90b-2884-4732-8084-23f6938e1a37"
+        },
+        {
+          "name": "Members Club T-Shirt",
+          "price": 400.00,
+          "url": "https://firebasestorage.googleapis.com/v0/b/the-ben-luc-system.appspot.com/o/Screenshot_20210925-105759.jpg?alt=media&token=6231df90-1374-4347-8ad4-78af88584e58"
+        },
+        {
+          "name": "Members Club Crop Top",
+          "price": 250.00,
+          "url": "https://firebasestorage.googleapis.com/v0/b/the-ben-luc-system.appspot.com/o/Screenshot_20210925-105859.jpg?alt=media&token=d41f43ae-eef7-4926-889e-ac4ea627871e"
+        },
+        {
+          "name": "Seasonal Cargo Pants",
+          "price": 550.00,
+          "url": "https://firebasestorage.googleapis.com/v0/b/the-ben-luc-system.appspot.com/o/Screenshot_20210925-105929.jpg?alt=media&token=627b8126-8412-4eac-a3b3-bbfea1207055"
+        },
+        {
+          "name": "Red International SweatSet",
+          "price": 900.00,
+          "url": "https://firebasestorage.googleapis.com/v0/b/the-ben-luc-system.appspot.com/o/Screenshot_20210925-110124.jpg?alt=media&token=cbda39f7-9449-4a37-b745-3683fe5223b4"
+        },
+        {
+          "name": "Green International SweatSet",
+          "price": 399.00,
+          "url": "https://firebasestorage.googleapis.com/v0/b/the-ben-luc-system.appspot.com/o/Screenshot_20210925-110050.jpg?alt=media&token=94108ea4-2d29-496b-947e-4b6ee06e61a6"
+        },
+        {
+          "name": "Sweatpants",
+          "price": 500.00,
+          "url": "https://firebasestorage.googleapis.com/v0/b/the-ben-luc-system.appspot.com/o/Screenshot_20210925-110921.jpg?alt=media&token=b1e0e3e6-ade4-44e1-8376-a7c30d8791eb"
+        },
+        {
+          "name": "Ladies Puffer Vest",
+          "price": 500.00,
+          "url": "https://firebasestorage.googleapis.com/v0/b/the-ben-luc-system.appspot.com/o/Screenshot_20210925-110858.jpg?alt=media&token=b2bd15e4-73c9-46c9-9d9a-b82b45d0bbc0"
+        },
+        {
+          "name": "Tracksuit Full Set",
+          "price": 900.00,
+          "url": "https://firebasestorage.googleapis.com/v0/b/the-ben-luc-system.appspot.com/o/Screenshot_20210925-110515.jpg?alt=media&token=b07f3bdf-9964-4146-927e-6b7850a2d372"
+        }
+      ]
+    }
+  ]

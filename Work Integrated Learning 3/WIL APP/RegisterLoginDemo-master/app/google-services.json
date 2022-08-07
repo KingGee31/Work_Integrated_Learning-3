@@ -1,0 +1,214 @@
+{
+  "project_info": {
+    "project_number": "622631925449",
+    "firebase_url": "https://the-ben-luc-system-default-rtdb.firebaseio.com",
+    "project_id": "the-ben-luc-system",
+    "storage_bucket": "the-ben-luc-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622631925449:android:86799b304080f5e37d3f18",
+        "android_client_info": {
+          "package_name": "com.BenLuc.ShoppingCart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622631925449-0komnki88l6rr53hdmecjjohhlo0vmg0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwu8qTpVtAuvMJCqtBs-z-X5isJzK5-OM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622631925449-0komnki88l6rr53hdmecjjohhlo0vmg0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622631925449:android:e4733d8f057c30c97d3f18",
+        "android_client_info": {
+          "package_name": "com.android.foodorderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622631925449-0komnki88l6rr53hdmecjjohhlo0vmg0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwu8qTpVtAuvMJCqtBs-z-X5isJzK5-OM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622631925449-0komnki88l6rr53hdmecjjohhlo0vmg0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622631925449:android:4469bc5f764aa0397d3f18",
+        "android_client_info": {
+          "package_name": "com.example.buclec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622631925449-0komnki88l6rr53hdmecjjohhlo0vmg0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwu8qTpVtAuvMJCqtBs-z-X5isJzK5-OM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622631925449-0komnki88l6rr53hdmecjjohhlo0vmg0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622631925449:android:d32aabdfcd2f10017d3f18",
+        "android_client_info": {
+          "package_name": "com.example.buclecshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622631925449-0komnki88l6rr53hdmecjjohhlo0vmg0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwu8qTpVtAuvMJCqtBs-z-X5isJzK5-OM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622631925449-0komnki88l6rr53hdmecjjohhlo0vmg0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622631925449:android:ab739570f14f947b7d3f18",
+        "android_client_info": {
+          "package_name": "com.example.buclecshopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622631925449-0komnki88l6rr53hdmecjjohhlo0vmg0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwu8qTpVtAuvMJCqtBs-z-X5isJzK5-OM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622631925449-0komnki88l6rr53hdmecjjohhlo0vmg0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622631925449:android:7b54a51e0351ff407d3f18",
+        "android_client_info": {
+          "package_name": "com.example.shopcart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622631925449-0komnki88l6rr53hdmecjjohhlo0vmg0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwu8qTpVtAuvMJCqtBs-z-X5isJzK5-OM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622631925449-0komnki88l6rr53hdmecjjohhlo0vmg0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622631925449:android:b8399150d5966ed77d3f18",
+        "android_client_info": {
+          "package_name": "com.example.shoppingcart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622631925449-0komnki88l6rr53hdmecjjohhlo0vmg0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwu8qTpVtAuvMJCqtBs-z-X5isJzK5-OM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622631925449-0komnki88l6rr53hdmecjjohhlo0vmg0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

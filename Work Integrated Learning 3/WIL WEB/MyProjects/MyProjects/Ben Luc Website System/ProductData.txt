@@ -1,0 +1,16 @@
+Beige Skin Dress,450.00,pictures\\beigeSkinDress.jpg,10
+B Full Set,800.00,pictures\\bFullSet.jpg,10
+Black Cargo Shorts,450.00,pictures\\blackCargoShorts.jpg,10
+Black Or Brown WindBreaker,450.00,pictures\\blackOrBrownWindBreaker.jpg,10
+Black Or Gold Mini Dress,450.00,pictures\\blackOrGoldMiniDress.jpg,10
+Black Skin Crop Top,250.00,pictures\\blackSkinCropTop.jpg,10
+Blue International Sweat Set,900.00,pictures\\blueInternationalSweatSet.jpg,10
+Brown Essential Puffer,1000.00,pictures\\brownEssentialPuffer.jpg,10
+Brown Essential Puffer Jacket,1000.00,pictures\\brownEssentialPufferJacket.jpg,10
+Brown Sweat Pants Plus Sweat Shirt,900.00,pictures\\brownSweatPantsPlusSweatShirt.jpg,10
+Field Jacket,800.00,pictures\\fieldJacket.jpg,10
+Green International Sweat Set,900.00,pictures\\greenInternationalSweatSet.jpg,10
+Heavy Weight Nylon Pants,700.00,pictures\\heavyWeightNylonPants.jpg,10
+Ladies Puffer Vest,500.00,pictures\\ladiesPufferVest.jpg,10
+Members Club Crop Top,250.00,pictures\\membersClubCropTop.jpg,10
+,,image\\,10
